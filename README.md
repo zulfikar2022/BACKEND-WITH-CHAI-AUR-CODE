@@ -1,1 +1,1 @@
-This is a bakcend project for practice purpose. 
+This is a backend project for practice purpose. 
